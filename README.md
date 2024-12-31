@@ -9,4 +9,5 @@ Automate the compilation of the Android Kernel using GitHub Actions, with option
   - config.env
   - README.MD
 # Enviroment
-  - 
+  - KSU_
+    - GIT_URL
